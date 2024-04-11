@@ -1,5 +1,5 @@
-# Ege Karabacak #101010870
-# COMP 3106 Project Bloxorz with Astar vs UCS
+# Ege Karabacak
+# This program is a solution to the Bloxorz game using the Uniform Cost Search algorithm.
 
 import heapq
 # Note that the input below looks like it has been rotated clockwise 90 degrees. It does not affect the overall output.
